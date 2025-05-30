@@ -1,0 +1,105 @@
+[2025-05-29 19:26:13,734] INFO in app: Starting Flask application
+[2025-05-29 19:26:13,740] WARNING in _internal:  * Debugger is active!
+[2025-05-29 19:26:13,741] INFO in _internal:  * Debugger PIN: 748-375-997
+[2025-05-29 19:26:15,037] INFO in app: Rendering upload form
+[2025-05-29 19:26:15,041] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:26:15] "GET / HTTP/1.1" 200 -
+[2025-05-29 19:26:15,052] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:26:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2025-05-29 19:26:15,065] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:26:15] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+[2025-05-29 19:26:33,934] INFO in app: Starting Flask application
+[2025-05-29 19:26:33,942] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2025-05-29 19:26:33,942] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2025-05-29 19:26:33,945] INFO in _internal:  * Restarting with watchdog (inotify)
+[2025-05-29 19:26:34,041] INFO in app: Starting Flask application
+[2025-05-29 19:26:34,047] WARNING in _internal:  * Debugger is active!
+[2025-05-29 19:26:34,047] INFO in _internal:  * Debugger PIN: 748-375-997
+[2025-05-29 19:27:24,079] INFO in app: Rendering upload form
+[2025-05-29 19:27:24,083] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:27:24] "GET / HTTP/1.1" 200 -
+[2025-05-29 19:27:24,093] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:27:24] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+[2025-05-29 19:27:24,095] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:27:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2025-05-29 19:28:02,563] INFO in app: Starting Flask application
+[2025-05-29 19:28:02,571] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2025-05-29 19:28:02,571] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2025-05-29 19:28:02,574] INFO in _internal:  * Restarting with watchdog (inotify)
+[2025-05-29 19:28:02,671] INFO in app: Starting Flask application
+[2025-05-29 19:28:02,676] WARNING in _internal:  * Debugger is active!
+[2025-05-29 19:28:02,676] INFO in _internal:  * Debugger PIN: 748-375-997
+[2025-05-29 19:28:05,622] INFO in app: Rendering upload form
+[2025-05-29 19:28:05,627] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:28:05] "GET / HTTP/1.1" 200 -
+[2025-05-29 19:28:05,634] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:28:05] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+[2025-05-29 19:28:05,637] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:28:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2025-05-29 19:28:08,850] INFO in app: Rendering upload form
+[2025-05-29 19:28:08,851] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:28:08] "GET / HTTP/1.1" 200 -
+[2025-05-29 19:28:08,858] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:28:08] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+[2025-05-29 19:28:08,862] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:28:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2025-05-29 19:28:14,585] INFO in app: Rendering upload form
+[2025-05-29 19:28:14,585] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:28:14] "GET /?file= HTTP/1.1" 200 -
+[2025-05-29 19:28:14,595] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:28:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2025-05-29 19:28:14,596] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:28:14] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+[2025-05-29 19:28:15,362] INFO in app: Rendering upload form
+[2025-05-29 19:28:15,363] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:28:15] "GET /?file= HTTP/1.1" 200 -
+[2025-05-29 19:28:15,372] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:28:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2025-05-29 19:28:15,373] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:28:15] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+[2025-05-29 19:28:16,655] INFO in app: Rendering upload form
+[2025-05-29 19:28:16,656] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:28:16] "GET /?file= HTTP/1.1" 200 -
+[2025-05-29 19:28:16,664] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:28:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2025-05-29 19:28:16,667] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:28:16] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+[2025-05-29 19:28:18,304] INFO in app: Rendering upload form
+[2025-05-29 19:28:18,305] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:28:18] "GET /?file= HTTP/1.1" 200 -
+[2025-05-29 19:28:18,314] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:28:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2025-05-29 19:28:18,318] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:28:18] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+[2025-05-29 19:28:29,896] INFO in app: Rendering upload form
+[2025-05-29 19:28:29,898] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:28:29] "GET /?file= HTTP/1.1" 200 -
+[2025-05-29 19:28:29,907] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:28:29] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+[2025-05-29 19:28:29,908] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:28:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2025-05-29 19:28:48,800] INFO in app: Starting Flask application
+[2025-05-29 19:28:48,807] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2025-05-29 19:28:48,807] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2025-05-29 19:28:48,811] INFO in _internal:  * Restarting with watchdog (inotify)
+[2025-05-29 19:28:48,908] INFO in app: Starting Flask application
+[2025-05-29 19:28:48,913] WARNING in _internal:  * Debugger is active!
+[2025-05-29 19:28:48,914] INFO in _internal:  * Debugger PIN: 748-375-997
+[2025-05-29 19:28:49,273] INFO in app: Rendering upload form
+[2025-05-29 19:28:49,277] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:28:49] "GET /?file= HTTP/1.1" 200 -
+[2025-05-29 19:28:49,337] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:28:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2025-05-29 19:28:49,537] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:28:49] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+[2025-05-29 19:28:58,866] INFO in app: Received file: 'SPA _ Single Digital.csv' (size: 7104 bytes)
+[2025-05-29 19:28:58,867] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:28:58] "POST /upload HTTP/1.1" 200 -
+[2025-05-29 19:29:06,832] INFO in app: Received file: 'SPA _ Single Digital.csv' (size: 7104 bytes)
+[2025-05-29 19:29:06,833] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:29:06] "POST /upload HTTP/1.1" 200 -
+[2025-05-29 19:29:16,855] INFO in app: Received file: 'SPA _ Single Digital - Copy.csv' (size: 7104 bytes)
+[2025-05-29 19:29:16,856] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:29:16] "POST /upload HTTP/1.1" 200 -
+[2025-05-29 19:29:24,666] INFO in app: Received file: 'SPA _ Single Digital (1).csv' (size: 7104 bytes)
+[2025-05-29 19:29:24,666] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:29:24] "POST /upload HTTP/1.1" 200 -
+[2025-05-29 19:29:32,365] INFO in app: Received file: 'SPA _ Single Digital.csv' (size: 7104 bytes)
+[2025-05-29 19:29:32,365] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:29:32] "POST /upload HTTP/1.1" 200 -
+[2025-05-29 19:31:04,861] INFO in _internal:  * Detected change in '/home/zuds/projects/photo-organizer/app.py', reloading
+[2025-05-29 19:31:04,862] INFO in _internal:  * Detected change in '/home/zuds/projects/photo-organizer/app.py', reloading
+[2025-05-29 19:31:04,864] INFO in _internal:  * Detected change in '/home/zuds/projects/photo-organizer/app.py', reloading
+[2025-05-29 19:31:05,346] INFO in _internal:  * Restarting with watchdog (inotify)
+[2025-05-29 19:31:05,550] INFO in app: Starting Flask application
+[2025-05-29 19:31:05,564] WARNING in _internal:  * Debugger is active!
+[2025-05-29 19:31:05,565] INFO in _internal:  * Debugger PIN: 748-375-997
+[2025-05-29 19:31:13,932] INFO in app: Rendering upload form
+[2025-05-29 19:31:13,936] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:31:13] "GET /?file= HTTP/1.1" 200 -
+[2025-05-29 19:31:13,945] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:31:13] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+[2025-05-29 19:31:13,948] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:31:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2025-05-29 19:31:26,505] INFO in app: Parsed CSV file: SPA _ Single Digital (1).csv with 68 data rows
+[2025-05-29 19:31:26,508] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:31:26] "POST /upload HTTP/1.1" 200 -
+[2025-05-29 19:33:18,151] INFO in app: Rendering upload form
+[2025-05-29 19:33:18,151] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:33:18] "GET /?file= HTTP/1.1" 200 -
+[2025-05-29 19:33:18,160] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:33:18] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+[2025-05-29 19:33:18,162] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:33:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2025-05-29 19:33:23,453] INFO in app: Parsed CSV file: SPA _ Single Digital (1).csv with 68 data rows
+[2025-05-29 19:33:23,454] INFO in _internal: 127.0.0.1 - - [29/May/2025 19:33:23] "POST /upload HTTP/1.1" 200 -
+[2025-05-29 19:36:02,789] INFO in _internal:  * Detected change in '/home/zuds/projects/photo-organizer/app.py', reloading
+[2025-05-29 19:36:02,790] INFO in _internal:  * Detected change in '/home/zuds/projects/photo-organizer/app.py', reloading
+[2025-05-29 19:36:02,791] INFO in _internal:  * Detected change in '/home/zuds/projects/photo-organizer/app.py', reloading
+[2025-05-29 19:36:03,129] INFO in _internal:  * Restarting with watchdog (inotify)
+[2025-05-29 19:37:29,787] INFO in _internal:  * Restarting with watchdog (inotify)
+[2025-05-29 19:38:29,538] INFO in _internal:  * Restarting with watchdog (inotify)
+[2025-05-29 19:38:40,167] INFO in _internal:  * Restarting with watchdog (inotify)
+[2025-05-29 19:38:46,774] INFO in _internal:  * Restarting with watchdog (inotify)
+[2025-05-29 19:41:02,950] INFO in _internal:  * Restarting with watchdog (inotify)
