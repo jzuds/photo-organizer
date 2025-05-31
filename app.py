@@ -1,19 +1,4 @@
-from flask import Flask, request, jsonify, render_template_string, session
-import pandas as pd
-import io
-import os
-import shutil
-
-app = Flask(__name__)
-app.secret_key = "replace_this_with_a_secure_random_key"
-
-# 🔧 Change this to the base directory where you want to store copied files
-PHOTO_PATH = "/home/zuds/projects/photo-organizer/test_output"  # << UPDATE THIS
-
-@app.route('/')
-def index():
-    current_dir = os.path.dirname(os.path.abspath(__file__))
-    return render_template_string("""
+YOUR_HTML_TEMPLATE_STRING = """
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -178,7 +163,27 @@ def index():
 
 </body>
 </html>
-""", default_path=current_dir)
+"""
+
+
+
+from flask import Flask, request, jsonify, render_template_string, session
+import pandas as pd
+import io
+import os
+import shutil
+
+app = Flask(__name__)
+app.secret_key = "replace_this_with_a_secure_random_key"
+
+# 🔧 Change this to the base directory where you want to store copied files
+PHOTO_PATH = "/home/zuds/projects/photo-organizer/test_output"  # << UPDATE THIS
+
+@app.route('/')
+def index():
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    return render_template_string(YOUR_HTML_TEMPLATE_STRING, default_path=current_dir)  # Use same HTML
+
 
 @app.route('/upload-csv', methods=['POST'])
 def upload_csv():
